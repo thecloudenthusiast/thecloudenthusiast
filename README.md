@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thecloudenthusiast
-- 👋 Hi, I'm AWS Certified Solutions Architect
+- 👋 Hi, I'm AWS Certified Solutions Architect and Microsoft Certified: Azure Administrator
 - 👀 I’m interested in Cloud, DevOps and Cybersecurity
 - 🌱 I’m currently learning DevOps and Azure/Azure DevOps
 - 💞️ I’m looking to collaborate on cloud engineering and DevOps programs
